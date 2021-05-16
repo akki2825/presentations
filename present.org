@@ -61,7 +61,6 @@ Ex - Civicdatalab, Vernacular AI & Ramco Systems
 #+REVEAL_HTML: <div class="column" style="float:left; width: 50%;top: 100%; z-index:-10">
 [[file:idu_place_1.jpg]]
 #+REVEAL_HTML: </div>
-
 #+REVEAL_HTML: <div class="column" style="float:right; width: 50%;top: 100%; z-index:-10">
 [[file:idu_place_2.jpg]]
 #+REVEAL_HTML: </div>
@@ -69,3 +68,102 @@ Ex - Civicdatalab, Vernacular AI & Ramco Systems
 #+REVEAL_HTML: <div style="font-size: 70%; text-align: centre">
 Credits: https://alchetron.com/
 #+REVEAL_HTML: </div>
+
+** Little by little does the trick
+#+REVEAL_HTML: <div style="font-size: 50%; font-style: italic">“There is no language for which nothing at all can be done” - Joshua Fishman</div>
+*** A preliminary survey was conducted to assess the state of the language and how people of different age group really feel about using it.
+*** The language is still spoken by a small group of older speakers within the community and the aim is to extend the use of the language into younger generations of speakers.
+*** Several brainstorming sessions to obtain a long view of the revitalization process.
+*** This helped me to better understand the sociocultural aspects of the community.
+
+** Adapting to a Modern World
+*** Idu Mishmi belongs to Tibeto-Burman stock of Sino-Tibetan language family.
+*** A particular aspect of Idu Mishmi language planning has been the establishment of an orthographic standard. This has been the subject of highly divisive debates within the Idu Mishmi language movement on the merits and shortcomings of different orthographies that have been proposed.
+*** It all started with adapting Devanagari script in 1980s. Only recently in 2020, an IPA based script was developed by Dr. Roger Blench et al.
+
+** Linguistic & Resource Inventory
+*** Linguistic descriptions were first developed and published only in 2020 by Roger Blench et al.
+*** There is no written literature available.
+*** Audio and Video recordings of Death Rituals, Folk tales, Marriage Ceremonies and other personal stories are available.
+*** An interesting book about textiles that describes the design patterns in their traditional clothing is available too!
+
+** A few more findings..
+*** From the survey and personal experience it was clear that internet connectivity is very sparse but a lot of people owned smartphones.
+*** So many Vloggers and K-Pop fans!
+*** People in their 20s (and below) and a few in their 30s can’t talk fluent Idu Mishmi.
+*** There are no higher education (above diploma) colleges in the area.
+
+** Origin of E-dictionary
+#+REVEAL_HTML: <div class="column" style="float:left; width: 60%; font-size: 70%"><br>
+- Primarily we set out to address the youth and children through technology for language learning.
+- Dictionaries are of great help in learning a language.
+- The ground work was done by Dr. Roger Blench team in procuring the Idu words in IPA-based script. We converted them to Roman and revalidated.
+
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:right; width: 40%;top: 100%; z-index:-10">
+[[file:dictionary_work.jpg]]
+#+REVEAL_HTML: </div>
+
+** Offline Dictionary App
+#+REVEAL_HTML: <div class="column" style="float:left; width: 50%; font-size: 60%">
+What?
+
+- An offline English to Mishmi (Idu) android application
+- The dictionary has a total of 981 words.
+
+For Whom?
+
+- Children of the Mishmi (Idu) community
+- Native speakers of Mishmi (Idu)
+- Mishmi (Idu) language enthusiasts
+
+Features
+
+- Use without internet connection!
+- Fuzzy search – find a word even if you don't know exactly how it is spelled
+- Provide Feedback
+
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div id="right" style="float:right; width: 50%;"><img height="540" src="mobile_dictionary.jpg">
+#+REVEAL_HTML: </div>
+
+** Online version
+#+REVEAL_HTML: <div style="float:centre; width: 100%;"><img height="540" src="web_portal.png">
+#+REVEAL_HTML: </div>
+
+** e-Reader app
+#+REVEAL_HTML: <div class="column" style="float:left; width: 50%; font-size: 70%">
+- Android application for reading ebooks in Mishmi (Idu) language.
+- Works without internet!
+- User can store a large number of e-books in this application.
+- Easy navigation and user-friendly reading layout.
+
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div id="right" style="float:right; width: 50%;"><img height="540" src="e_reader.jpg">
+#+REVEAL_HTML: </div>
+
+** The Team
+#+REVEAL_HTML: <div style="float:centre; width: 100%;"><img height="540" src="team.jpg">
+#+REVEAL_HTML: </div>
+
+** The Now
+- We have a Youtube Channel for language learning!! We post a video every week.
+- Dictionary app is getting the audio support and a better theme.
+- We have around 15 people working on translation of children books and procuring new words for the dictionary.
+- We are in the process of collaborating with the government, different language revitalization organisations, publishing houses and universities.
+
+** Scope for tomorrow
+- Interactive applications for popularising vocabulary of the language.
+- Create datasets to facilitate advanced technologies like Speech-to-Text, Machine Translation etc.
+- We want to train community members in documentary techniques in order to create a rich archive of Idu Mishmi.
+- Focus on language pedagogy.
+
+** What is VANI?
+
+
+Vernacular Archive of Northeast India - VANI for short - is a non-profit initiative aimed at documentation, digitization and development of AI based tools for the vernacular languages of the Northeast India.
+
+Through VANI, we help build technology tools for northeastern languages so that they remain alive and the diverse traditional knowledge, wisdom and worldviews are preserved.
