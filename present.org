@@ -1,17 +1,41 @@
 #+REVEAL_ROOT: ./reveal-root/
 #+REVEAL_THEME: serif
-#+OPTIONS: toc:nil num:nil date:nil
-#+TITLE: Demo
-#+AUTHOR: Akhilesh
+#+OPTIONS: toc:nil num:nil
+#+REVEAL_TITLE_SLIDE: <h3>Language Revitalization: A case for Idu Mishmi %d</h3><br><br><h4>Akhilesh K R</h4>
+#+REVEAL_TRANS: fade
 
 
-* demo slide
-- demo
-  #+ATTR_REVEAL: :frag (t)
-  - testing 1
-  - testing 2
-* demo slide 2
+
+#+BEGIN_EXPORT html
+<style>
+
+#top {
+  top: 100%;
+}
+#right {
+  top: 100%;
+  float: right;
+  text-align: right;
+  z-index:-10;
+  width:20%;
+}
+#small {
+  font-size: xx-small;
+}
+</style>
+
+<div id="right">
+<img height="80" src="logo.jpg">
+</div>
+
+#+END_EXPORT
+
+
+** Who am I?
+#+REVEAL_HTML: <div style="font-size: 50%; font-style: italic">Who am I to blow against the wind?”</div>
 #+ATTR_REVEAL: :frag (t)
-- demo
-  - testing 1
-  - testing 2
+I’m a Language Researcher working on Indic languages (particularly North East Indian languages).
+#+attr_reveal: :frag (t)
+I am currently managing Tech and Partnerships with a few Indigenous communities of North-East India.
+#+attr_reveal: :frag (t)
+Ex - Civicdatalab, Vernacular AI & Ramco Systems
