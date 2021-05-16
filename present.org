@@ -34,8 +34,38 @@
 ** Who am I?
 #+REVEAL_HTML: <div style="font-size: 50%; font-style: italic">Who am I to blow against the wind?”</div>
 #+ATTR_REVEAL: :frag (t)
-I’m a Language Researcher working on Indic languages (particularly North East Indian languages).
+I am a Language Researcher working on Indic languages (particularly North East Indian languages).
 #+attr_reveal: :frag (t)
 I am currently managing Tech and Partnerships with a few Indigenous communities of North-East India.
 #+attr_reveal: :frag (t)
 Ex - Civicdatalab, Vernacular AI & Ramco Systems
+
+** Staying centered around what matters
+**** Indigenous people represent 5% of the world’s population, but they speak two-thirds of the world’s 7,000–7,500 spoken languages. Of those languages, about one-third are in some stage of language loss (Lewis and Simon 2016), and as many as 90% are predicted to fall silent by century’s end (UNESCO Ad Hoc Expert Group 2003).
+**** Arunachal Pradesh is one of the linguistically richest and most diverse regions in all of Asia. In part due to this high diversity, a Hindi-based creole has been rapidly sweeping the state in recent years.
+**** This has led to the sudden and in some cases severe endangerment of several of the state’s indigenous languages (Modi et. al, 2006).
+
+** Home
+#+REVEAL_HTML: <div class="column" style="float:left; width: 60%; font-size: 70%"><br>
+- Idu Mishmi is primarily used in Rural setting - Dibang Valley District of Arunachal Pradesh with some settlements in Lohit and E. Siang.
+- However, the ‘Upper’ Idu (Luoba) live towards the Tibetan border and there are some villages in China (Sun 1983).
+- The 1971 census recorded around 7700 individuals self-identifying as Idu Mishmi, although this is no measure of language competence.
+
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:right; width: 40%;top: 100%; z-index:-10">
+[[file:idu_mishmi_map.png]]
+#+REVEAL_HTML: </div>
+
+** Home (in IRL)
+#+REVEAL_HTML: <div class="column" style="float:left; width: 50%;top: 100%; z-index:-10">
+[[file:idu_place_1.jpg]]
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div class="column" style="float:right; width: 50%;top: 100%; z-index:-10">
+[[file:idu_place_2.jpg]]
+#+REVEAL_HTML: </div>
+
+#+REVEAL_HTML: <div style="font-size: 70%; text-align: centre">
+Credits: https://alchetron.com/
+#+REVEAL_HTML: </div>
