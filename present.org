@@ -1,0 +1,8 @@
+#+OPTIONS: toc:nil num:nil       epresent
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
+
+* Slide 1
+this is the first slide
+
+* Slide 2
+this is the second
