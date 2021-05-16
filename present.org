@@ -1,8 +1,17 @@
-#+OPTIONS: toc:nil num:nil       epresent
-#+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
+#+REVEAL_ROOT: ./reveal-root/
+#+REVEAL_THEME: serif
+#+OPTIONS: toc:nil num:nil date:nil
+#+TITLE: Demo
+#+AUTHOR: Akhilesh
 
-* Slide 1
-this is the first slide
 
-* Slide 2
-this is the second
+* demo slide
+- demo
+  #+ATTR_REVEAL: :frag (t)
+  - testing 1
+  - testing 2
+* demo slide 2
+#+ATTR_REVEAL: :frag (t)
+- demo
+  - testing 1
+  - testing 2
