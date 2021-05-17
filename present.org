@@ -67,6 +67,11 @@ Ex - Civicdatalab, Vernacular AI & Ramco Systems
 Credits: https://alchetron.com/
 #+REVEAL_HTML: </div>
 
+** Idu fam
+#+REVEAL_HTML: <div class="column" style="width: 77%;margin-left:10%;">
+[[file:idu_mishmi_family.jpg]] Credits: Onkar Pradhan
+#+REVEAL_HTML: </div>
+
 
 ** How it all began
 - Started with a proposal to build online dictionary and speech corpora for Nyishi language to Nyishi Elite Society and RIWATCH.
