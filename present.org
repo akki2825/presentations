@@ -169,7 +169,7 @@ Features
 
 ** What is VANI?
 
-Vernacular Archive of Northeast India - VANI for short - is a non-profit initiative aimed at documentation, digitization and development of technology tools for the vernacular languages of the Northeast India.
+Vernacular Archive of Northeast India - VANI for short - is a non-profit initiative aimed at documentation, digitization and development of technology tools for low-resource languages of the Northeast India.
 
 Through VANI, we work towards Language Revitalization of northeastern languages so that they remain alive and the diverse traditional knowledge, wisdom and worldviews are preserved.
 
