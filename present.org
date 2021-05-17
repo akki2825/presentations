@@ -172,7 +172,7 @@ Through VANI, we help build technology tools for northeastern languages so that 
 
 ** VANI Team
 
-#+REVEAL_HTML: <div class="column" style="float:left; width: 33%;top: 100%; z-index:-10">
+#+REVEAL_HTML: <div class="column" style="float:left; width: 29%;top: 100%; z-index:-10">
 [[file:rutwik.jpeg]] Rutwik Phatak
 #+REVEAL_HTML: </div>
 #+REVEAL_HTML: <div class="column" style="float:left; width: 29.4%; top: 100%; z-index:-10">
