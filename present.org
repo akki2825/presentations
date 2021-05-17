@@ -118,7 +118,7 @@ What?
 
 For Whom?
 
-- Children of the Mishmi (Idu) community
+- The youth of the Mishmi (Idu) community
 - Native speakers of Mishmi (Idu)
 - Mishmi (Idu) language enthusiasts
 
@@ -130,7 +130,9 @@ Features
 
 #+REVEAL_HTML: </div>
 
-#+REVEAL_HTML: <div id="right" style="float:right; width: 50%;"><video height="540" controls preload loop><source src="idu_dict.mp4" type="video/mp4" ></video>
+#+REVEAL_HTML: <div id="right" style="float:right; width: 50%;"><video height="540" autoplay loop muted inline><source src="idu_dict.mp4" type="video/mp4"></video>
+
+
 #+REVEAL_HTML: </div>
 
 ** Online version
