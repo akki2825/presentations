@@ -179,6 +179,7 @@ Through VANI, we help build technology tools for northeastern languages so that 
 #+REVEAL_HTML: <div class="column" style="float:left; width: 33%;top: 100%; z-index:-10 ">
 [[file:akhilesh.jpg]] Akhilesh K R
 #+REVEAL_HTML: </div>
+more contributors [[https://projectvani.org/team/][here]]..
 
 ** Many thanks to..
 #+REVEAL_HTML: <div class="column" style="float:left; width: 50%;top: 100%; z-index:-10">
