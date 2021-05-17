@@ -77,7 +77,6 @@ Credits: https://alchetron.com/
 *** A preliminary survey was conducted to assess the state of the language and how people of different age group really feel about using it.
 *** The language is still spoken by a small group of older speakers within the community and the aim is to extend the use of the language into younger generations of speakers.
 *** Several brainstorming sessions to obtain a long view of the revitalization process.
-*** This helped me to better understand the sociocultural aspects of the community.
 
 ** Adapting to a Modern World
 #+REVEAL_HTML: <div style="font-size: 50%; font-style: italic">Young speakers are the future of any language. If it survives, it will belong to them.</div>
