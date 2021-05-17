@@ -2,7 +2,6 @@
 #+REVEAL_THEME: serif
 #+OPTIONS: toc:nil num:nil
 #+REVEAL_TITLE_SLIDE: <h3>Language Revitalization: A case for Idu Mishmi %d</h3><br><br><h4>Akhilesh K R</h4>
-#+REVEAL_TRANS: fade
 
 
 
@@ -25,19 +24,18 @@
 </style>
 
 <div id="right">
-<img height="80" src="logo.jpg">
+<img height="60" src="logo.jpg">
 </div>
 
 #+END_EXPORT
 
 
 ** Who am I?
-#+REVEAL_HTML: <div style="font-size: 50%; font-style: italic">Who am I to blow against the wind?”</div>
-#+ATTR_REVEAL: :frag (t)
+#+REVEAL_HTML: <div style="font-size: 50%; font-style: italic">“Who am I to blow against the wind?”</div>
 I am a Language Researcher working on Indic languages (particularly North East Indian languages).
-#+attr_reveal: :frag (t)
+
 I am currently managing Tech and Partnerships with a few Indigenous communities of North-East India.
-#+attr_reveal: :frag (t)
+
 Ex - Civicdatalab, Vernacular AI & Ramco Systems
 
 ** Staying centered around what matters
@@ -167,3 +165,41 @@ Features
 Vernacular Archive of Northeast India - VANI for short - is a non-profit initiative aimed at documentation, digitization and development of AI based tools for the vernacular languages of the Northeast India.
 
 Through VANI, we help build technology tools for northeastern languages so that they remain alive and the diverse traditional knowledge, wisdom and worldviews are preserved.
+
+** VANI Team
+
+#+REVEAL_HTML: <div class="column" style="float:left; width: 33%;top: 100%; z-index:-10">
+[[file:rutwik.jpeg]] Rutwik Phatak
+#+REVEAL_HTML: </div>
+#+REVEAL_HTML: <div class="column" style="float:left; width: 29.4%; top: 100%; z-index:-10">
+[[file:Pamir.jpg]] Pamir Gogoi
+#+REVEAL_HTML: </div>
+#+REVEAL_HTML: <div class="column" style="float:left; width: 33%;top: 100%; z-index:-10 ">
+[[file:akhilesh.jpg]] Akhilesh
+#+REVEAL_HTML: </div>
+
+** Many thanks to..
+#+REVEAL_HTML: <div class="column" style="float:left; width: 50%;top: 100%; z-index:-10">
+[[file:riwatch.jpg]] RIWATCH
+#+REVEAL_HTML: </div>
+#+REVEAL_HTML: <div class="column" style="float:right; width: 50%;top: 100%; z-index:-10">
+[[file:imcls.jpg]] IMCLS
+#+REVEAL_HTML: </div>
+
+** dream
+I look forward to a day when every Indigenous child is able to study in their own language and most importantly grow up speaking their language.
+
+Thank you!
+
+** Get in touch!
+Akhilesh K R
+
++91-9902914207
+
+akki.kr94@gmail.com
+
+More about me: https://akkikek.xyz/about/
+
+More about VANI: https://projectvani.org/
+
+Link to slides: https://akkikek.xyz/presentations/present.html
