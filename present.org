@@ -175,7 +175,7 @@ Through VANI, we help build technology tools for northeastern languages so that 
 [[file:Pamir.jpg]] Pamir Gogoi
 #+REVEAL_HTML: </div>
 #+REVEAL_HTML: <div class="column" style="float:left; width: 33%;top: 100%; z-index:-10 ">
-[[file:akhilesh.jpg]] Akhilesh
+[[file:akhilesh.jpg]] Akhilesh K R
 #+REVEAL_HTML: </div>
 
 ** Many thanks to..
@@ -188,8 +188,6 @@ Through VANI, we help build technology tools for northeastern languages so that 
 
 ** dream
 I look forward to a day when every Indigenous child is able to study in their own language and most importantly grow up speaking their language.
-
-Thank you!
 
 ** Get in touch!
 Akhilesh K R
