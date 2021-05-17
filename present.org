@@ -47,8 +47,8 @@ Ex - Civicdatalab, Vernacular AI & Ramco Systems
 #+REVEAL_HTML: <div class="column" style="float:left; width: 60%; font-size: 70%"><br>
 - Idu Mishmi is primarily used in Rural setting - Dibang Valley District of Arunachal Pradesh with some settlements in Lohit and E. Siang.
 - However, the ‘Upper’ Idu (Luoba) live towards the Tibetan border and there are some villages in China (Sun 1983).
+- Idu Mishmi belongs to Tibeto-Burman stock of Sino-Tibetan language family.
 - The 1971 census recorded around 7700 individuals self-identifying as Idu Mishmi, although this is no measure of language competence.
-
 #+REVEAL_HTML: </div>
 
 #+REVEAL_HTML: <div class="column" style="float:right; width: 40%;top: 100%; z-index:-10">
@@ -70,6 +70,7 @@ Credits: https://alchetron.com/
 
 ** How it all began
 - Started with a proposal to build online dictionary and speech corpora for Nyishi language to Nyishi Elite Society and RIWATCH.
+- Arunachal trip happened to work on Idu Mishmi.
 
 ** Little by little does the trick
 #+REVEAL_HTML: <div style="font-size: 50%; font-style: italic">“There is no language for which nothing at all can be done” - Joshua Fishman</div>
@@ -79,12 +80,9 @@ Credits: https://alchetron.com/
 *** This helped me to better understand the sociocultural aspects of the community.
 
 ** Adapting to a Modern World
-*** Idu Mishmi belongs to Tibeto-Burman stock of Sino-Tibetan language family.
-*** A particular aspect of Idu Mishmi language planning has been the establishment of an orthographic standard. This has been the subject of highly divisive debates within the Idu Mishmi language movement on the merits and shortcomings of different orthographies that have been proposed.
-*** It all started with adapting Devanagari script in 1980s. Only recently in 2020, an IPA based script was developed by Dr. Roger Blench et al.
-
-** Linguistic & Resource Inventory
+#+REVEAL_HTML: <div style="font-size: 50%; font-style: italic">Young speakers are the future of any language. If it survives, it will belong to them.</div>
 *** Linguistic descriptions were first developed and published only in 2020 by Roger Blench et al.
+*** Idu Mishmi language movement started with adapting Devanagari script in 1980s. Only recently in 2020, an IPA based script was developed by Dr. Roger Blench et al.
 *** There is no written literature available.
 *** Audio and Video recordings of Death Rituals, Folk tales, Marriage Ceremonies and other personal stories are available.
 *** An interesting book about textiles that describes the design patterns in their traditional clothing is available too!
@@ -159,7 +157,7 @@ Features
 
 ** Scope for tomorrow
 - Interactive applications for popularising vocabulary of the language.
-- Create datasets to facilitate advanced technologies like Speech-to-Text, Machine Translation etc.
+- Translate books to Idu Mishmi at scale.
 - We want to train community members in documentary techniques in order to create a rich archive of Idu Mishmi.
 - Focus on language pedagogy.
 
