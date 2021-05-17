@@ -156,23 +156,22 @@ Features
 #+REVEAL_HTML: </div>
 
 ** The Now
-- We have a Youtube Channel for language learning!! We post a video every week.
+- We have a Youtube Channel for language learning.
 - Dictionary app is getting the audio support and a better theme.
-- We have around 15 people working on translation of children books and procuring new words for the dictionary.
+- Collaborated with Pratham books for translations at scale.
 - We are in the process of collaborating with the government, different language revitalization organisations, publishing houses and universities.
 
 ** Scope for tomorrow
 - Interactive applications for popularising vocabulary of the language.
-- Translate books to Idu Mishmi at scale.
+- Creation of Image Text datasets, Speech corpora and Parallel text corpora.
 - We want to train community members in documentary techniques in order to create a rich archive of Idu Mishmi.
 - Focus on language pedagogy.
 
 ** What is VANI?
 
+Vernacular Archive of Northeast India - VANI for short - is a non-profit initiative aimed at documentation, digitization and development of technology tools for the vernacular languages of the Northeast India.
 
-Vernacular Archive of Northeast India - VANI for short - is a non-profit initiative aimed at documentation, digitization and development of AI based tools for the vernacular languages of the Northeast India.
-
-Through VANI, we help build technology tools for northeastern languages so that they remain alive and the diverse traditional knowledge, wisdom and worldviews are preserved.
+Through VANI, we work towards Language Revitalization of northeastern languages so that they remain alive and the diverse traditional knowledge, wisdom and worldviews are preserved.
 
 ** VANI Team
 
