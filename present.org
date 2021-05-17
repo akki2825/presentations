@@ -130,7 +130,7 @@ Features
 
 #+REVEAL_HTML: </div>
 
-#+REVEAL_HTML: <div id="right" style="float:right; width: 50%;"><img height="540" src="mobile_dictionary.jpg">
+#+REVEAL_HTML: <div id="right" style="float:right; width: 50%;"><video height="540" controls preload loop><source src="idu_dict.mp4" type="video/mp4" ></video>
 #+REVEAL_HTML: </div>
 
 ** Online version
