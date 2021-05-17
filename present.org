@@ -55,7 +55,7 @@ Ex - Civicdatalab, Vernacular AI & Ramco Systems
 [[file:idu_mishmi_map.png]]
 #+REVEAL_HTML: </div>
 
-** Home (in IRL)
+** Home (in real life)
 #+REVEAL_HTML: <div class="column" style="float:left; width: 50%;top: 100%; z-index:-10">
 [[file:idu_place_1.jpg]]
 #+REVEAL_HTML: </div>
@@ -74,7 +74,7 @@ Credits: https://alchetron.com/
 
 
 ** How it all began
-- Started with a proposal to build online dictionary and speech corpora for Nyishi language to Nyishi Elite Society and RIWATCH.
+- Started with a proposal to build online dictionary and speech corpora for Nyishi language with Nyishi Elite Society and RIWATCH.
 - Arunachal trip happened to work on Idu Mishmi.
 
 ** Little by little does the trick
