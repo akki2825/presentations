@@ -151,9 +151,22 @@ Features
 #+REVEAL_HTML: <div id="right" style="float:right; width: 50%;"><img height="540" src="e_reader.jpg">
 #+REVEAL_HTML: </div>
 
-** The Team
+** The Idu Team
 #+REVEAL_HTML: <div style="float:centre; width: 100%;"><img height="540" src="team.jpg">
 #+REVEAL_HTML: </div>
+
+** Launch ke baad..
+
+#+REVEAL_HTML: <div class="column" style="float:left; width: 27.5%;top: 100%; z-index:-10">
+[[file:dictionary_ss.png]]
+#+REVEAL_HTML: </div>
+#+REVEAL_HTML: <div class="column" style="float:left; width: 32.9%; top: 100%; z-index:-10">
+[[file:pema_khandu.jpg]]
+#+REVEAL_HTML: </div>
+#+REVEAL_HTML: <div class="column" style="float:left; width: 30.6%;top: 100%; z-index:-10 ">
+[[file:arunachal_times.png]]
+#+REVEAL_HTML: </div>
+
 
 ** The Now
 - We have a Youtube Channel for language learning.
