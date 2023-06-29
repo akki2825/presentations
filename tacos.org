@@ -107,8 +107,10 @@ Credits: https://alchetron.com/
 #+REVEAL_HTML: <div class="column" style="float:left; width: 50%; font-size: 60%">
 What?
 
-- An offline English to Mishmi (Idu) android application built using [[https://flutter.dev/][Flutter]].
-- The dictionary has a total of ~1300 words.
+- An offline English to Mishmi (Idu) android application built using [[https://flutter.dev/][Flutter]]
+- The dictionary has a total of ~1300 words
+- Playstore link [[https://play.google.com/store/search?q=idu+mishmi+dictionary][here]]
+- Has about 2000 installs
 
 For Whom?
 
@@ -153,6 +155,7 @@ Features
 - has a new script that's more /accurate/.
 - has around 30-40 active volunteers.
 - recently secured funds for translating 200 children books and to build a read-along e-reader android application.
+
 ** dream
 I look forward to a day when every Indigenous child is able to study in their own language and most importantly grow up speaking their language.
 
